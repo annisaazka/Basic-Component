@@ -1,0 +1,36 @@
+.Sidebar{
+    background: #1E293B;
+    position: fixed;
+    height: 100%;
+    width: 220px;
+    padding:15px 10px 10px 20px;
+}
+
+.images img{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.images h4{
+    font-size: 14px;
+    color: #64748B;
+    font-weight: 500;
+}
+
+.icon-with-text {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+  
+.icon-with-text img {
+    margin-right: 10px;
+}
+
+.icon-with-text a{
+    font-size: 14px;
+    color: #E2E8F0;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
